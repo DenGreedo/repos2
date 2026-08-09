@@ -1,4 +1,4 @@
-package repos2
+package main
 
 import (
 	"fmt"
